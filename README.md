@@ -1,4 +1,6 @@
+
 # Laravel REST Backend API Starter
+
 **Start up your Laravel as Backend with ease using this repo.**
 
 
@@ -19,6 +21,10 @@ You can find API Documentation for sample model [here](https://documenter.getpos
 Clone this repository and run
 
     composer update
+
+Migrate and seed the sample data
+
+    php artisan migrate --seed
 
 Then set up your .env and start with 
 
