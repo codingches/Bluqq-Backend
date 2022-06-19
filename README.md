@@ -1,5 +1,4 @@
 # Laravel REST Backend API Starter
-
 **Start up your Laravel as Backend with ease using this repo.**
 
 
